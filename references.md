@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+This is the file introducing the merge conflict manually
